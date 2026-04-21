@@ -1,5 +1,7 @@
 # Regression Analysis Report
 
+<img width="555" height="704" alt="Image" src="https://github.com/user-attachments/assets/b4e7bea0-fa99-4e9f-b2f8-061ed6428e29" />
+
 ## Introduction
 This project analyzes how different factors influence student performance using multiple linear regression. The study considers variables such as study time, attendance, sleep duration, previous academic performance, and participation in tutoring sessions. The aim is to understand how these factors contribute to performance and identify the most impactful predictors.
 
